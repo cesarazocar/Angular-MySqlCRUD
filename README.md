@@ -7,12 +7,12 @@ Preview
 
 Index
 
-<img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/gameslist.png" width="350" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
+<img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/gameslist.png" width="450" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
 
 Edit Game
 
-<img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/editgame.png" width="350" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
+<img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/editgame.png" width="450" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
 
 Add Game
 
-<img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/savegame.png" width="350" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
+<img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/savegame.png" width="450" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
