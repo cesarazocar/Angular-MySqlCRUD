@@ -7,7 +7,7 @@ Preview
 
 Index
 
-<img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/games.png" width="350" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
+<img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/gameslist.png" width="350" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
 
 Edit Game
 
