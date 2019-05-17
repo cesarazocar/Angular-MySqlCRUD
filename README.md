@@ -14,4 +14,5 @@ Edit Game
 <img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/editgame.png" width="350" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
 
 Add Game
+
 <img src="https://github.com/cesarazocar/Angular-MySqlCRUD/blob/master/savegame.png" width="350" title="Angular MysqlCRUDe" alt="Angular MysqlCRUD">
